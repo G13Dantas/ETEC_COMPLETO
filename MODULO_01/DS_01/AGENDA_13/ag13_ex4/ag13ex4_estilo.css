@@ -1,0 +1,31 @@
+body{
+font-size: 100%;
+}
+h1{
+text-align:center; background-color: blue; color: rgb(84, 6, 6);
+}
+p{
+font-size: 1.5em; color: black;
+}
+h2{
+text-align:center; background-color: cyan; color: rgb(84, 6, 6);
+}
+/*Seletor de link*/ 
+a:link {
+color: rgb(0, 255, 0);
+}
+/*Seletor de link visitado*/ 
+a:visited {
+color: rgb(255, 0, 242);
+}
+/*Seletor de link quando o mouse passar por cima do link*/ a:hover {
+color: rgb(0, 0, 255);
+}
+.fonte{
+    text-align:center;
+    font-weight:bold;
+}
+body{
+    background-color: rgb(226, 226, 226);
+    font-size: 100%;
+}
