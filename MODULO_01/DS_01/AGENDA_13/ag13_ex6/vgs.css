@@ -1,0 +1,14 @@
+.body{
+    background-color: #1e1d20;
+}
+.container{
+    width: 100%; 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.esquerda, .centro, .direita{
+    align-items: center;
+    margin: 1%
+}
