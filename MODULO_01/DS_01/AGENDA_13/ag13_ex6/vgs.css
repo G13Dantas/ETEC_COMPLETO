@@ -1,14 +1,34 @@
-.body{
-    background-color: #1e1d20;
+body{
+    background-color: #722323;
 }
 .container{
     width: 100%; 
     display: flex;
     flex-direction: row;
-    align-items: center;
 }
 
 .esquerda, .centro, .direita{
     align-items: center;
-    margin: 1%
+    margin: 5%
+}
+.esquerda{
+    flex-grow:1;
+}
+.centro{
+    flex-grow: 1;
+}
+.direita{
+    flex-grow: 1;
+}
+h1{
+text-align:center; 
+color: rgb(6, 135, 209); 
+font-size: 4em;
+}
+p{
+    color:aliceblue
+}
+
+a:link, a:visited{ 
+    color: #fff;
 }
