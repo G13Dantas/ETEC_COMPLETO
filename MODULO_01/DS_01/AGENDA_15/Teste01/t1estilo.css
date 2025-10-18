@@ -1,0 +1,12 @@
+/*Passo 3 - Estilo da barra lateral*/
+
+.w3-sidebar{
+    width:120px;
+    background: #595959;
+}
+
+/*Passo 4: Definir a fonte para as tags abaixo*/
+
+body,h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat", sans-serif;
+}
